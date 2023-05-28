@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mi-cloud34&label=Profile%20views&color=0e75b6&style=flat" alt="mi-cloud34" /> </p>
 
-- 🌱 I’m currently learning **vue,bootstrap**
+- 🌱 I’m currently learning **React,Tailwind,bootstrap**
 
 - 💬 Ask me about **flutter,nodejs,.netcore 6**
 
